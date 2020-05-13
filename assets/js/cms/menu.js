@@ -1,7 +1,7 @@
 const menu = {
   menuList: [
     {
-      name: "Onde Wijen Hijau",
+      name: "Onde Wijen Hitam",
       category: "dimsum",
       price: 19
     },
